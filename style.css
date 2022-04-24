@@ -1,0 +1,23 @@
+body{background-color: antiquewhite;
+margin-left: 50px;
+margin-right: 50px;}
+h1 { 
+ text-align:  center;
+ color: saddlebrown ;
+ font-size:  1.5cm ;
+ background-image: radial-gradient(#FFFF, rgb(142, 189, 211));
+ background-repeat:no repeat;
+ border: 5px  rgb(142, 161, 238);
+ border-radius:  1cm ;
+ box-shadow : 15px 18px 10px  grey ;
+ }
+h2{ color:  tomato;
+text-align: justify;}
+h3{ color: darkcyan }
+h4{ color:  darkcyan;
+text-align: center;}
+h5{ color:  darkcyan;
+text-align: center;}
+h6{ color:  lightcoral;
+font-size:  0.5cm ;
+text-align: center;}
